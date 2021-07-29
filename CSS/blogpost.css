@@ -1,0 +1,38 @@
+.post-img{
+    margin-top: 10px;
+    width: 100%;
+    overflow: hidden;
+    opacity: 0.45;
+}
+
+.post-img img{
+    width: 100%;
+}
+
+.blog-post-containt{
+    margin: auto;
+}
+
+.blog-post-containt h1{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+}
+
+.blogpost-meta{
+    display: flex;
+    /* background-color: red; */
+    width: 100%;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.author-info div{
+    margin: -2px 0px;
+    padding: 2px 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
