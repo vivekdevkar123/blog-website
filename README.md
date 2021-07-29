@@ -1,11 +1,11 @@
 # Blog Website
 
-the website is made from html,css and JavaScript
+The website is made from html,css and JavaScript
 
 ## Feature
 
-The website is fully functional website.
-This is compatible for all devices, this is fully responsive website.
+This is fully functional website and
+fully responsive website which is compatible for all devices
 
 
 ## Usage
@@ -17,11 +17,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Contact
-[Linkedin](https://www.linkedin.com/in/vivekdevkar123)
-
-[Twitter](https://www.twitter.com/vivekdevkar123)
-
 # screenshots
 
 ### screenshot 1
@@ -32,3 +27,11 @@ Please make sure to update tests as appropriate.
 
 ### screenshot 3
 ![screenshot](/screenshot/screenshot_03.png)
+
+
+## Contact
+[Linkedin](https://www.linkedin.com/in/vivekdevkar123)
+
+[Twitter](https://www.twitter.com/vivekdevkar123)
+
+### Email : mrvivekdevkar123@gmail.com
