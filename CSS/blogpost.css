@@ -42,6 +42,10 @@
     font-weight: bold;
 }
 
+.author-info{
+    margin: 29px 7px;
+}
+
 .slogan{
     font-size: 23px;
     font-family: 'Gowun Dodum', sans-serif;

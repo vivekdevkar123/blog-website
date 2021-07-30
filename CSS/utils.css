@@ -63,3 +63,12 @@
     padding-top: 32px;
     padding-bottom: 32px;
 }
+
+.heading{
+    font-size: 20px;
+    text-align: center;
+}
+
+.sub-heading{
+    font-size: 15px;
+}
